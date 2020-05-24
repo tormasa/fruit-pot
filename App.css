@@ -1,0 +1,114 @@
+.Fruit-container {
+  margin: auto;
+  width: 240px;
+  display: flex;
+  background: lightblue;
+  padding: 20px;
+}
+
+.Fruit-column {
+  margin: auto;
+  padding: 1px;
+  background: white;
+}
+
+.Fruit {
+  margin: auto;
+}
+
+.Fruit-middle {
+  margin: auto;
+  background-color: lightpink;
+}
+
+.Play-button-container {
+  margin: auto;
+  width: 10%;
+  padding: 64px;
+}
+
+.Play-button-center {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.Play-button {
+  background-color: green;
+  display: inline-block;
+  color: white;
+  outline: none;
+  cursor: grab;
+  padding: 15px 25px;
+  font-size: 24px;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.Play-button:hover {
+  background-color: rgb(2, 104, 2);
+  
+}
+
+.Play-button:active {
+  background-color: rgb(2, 104, 2);
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.disabled {
+  opacity: 0.5;
+}
+
+.Header {
+  margin: auto;
+  text-align: center;
+  font-size: 50px;
+  color: green;
+}
+
+.Top-info {
+  position: relative;
+  margin: auto;
+  display: flex;
+  width: 240px;
+  height: 50px;
+}
+
+.Last-win {
+  position: absolute;
+  margin: auto;
+  right: 0;
+  font-weight: bold;
+}
+
+.My-moneys {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  font-weight: bold;
+}
+
+.Win-row {
+  position: relative;
+  margin-top: auto;
+  display: flex;
+  font-size: 12px;
+  top: 0;
+  align-items: center;
+  font-weight: bold;
+}
+
+.Win-col {
+  margin: auto;
+}
+
+.Win-board {
+  margin: auto;
+  display: flex;
+  width: 250px;
+  background: rgb(252, 187, 246);
+  border: 3px solid black;
+}
