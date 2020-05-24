@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fruit-pot/static/css/main.79df3d86.chunk.css",
+    "main.js": "/fruit-pot/static/js/main.dde1b67a.chunk.js",
+    "main.js.map": "/fruit-pot/static/js/main.dde1b67a.chunk.js.map",
+    "runtime-main.js": "/fruit-pot/static/js/runtime-main.5229fac6.js",
+    "runtime-main.js.map": "/fruit-pot/static/js/runtime-main.5229fac6.js.map",
+    "static/js/2.9c49996e.chunk.js": "/fruit-pot/static/js/2.9c49996e.chunk.js",
+    "static/js/2.9c49996e.chunk.js.map": "/fruit-pot/static/js/2.9c49996e.chunk.js.map",
+    "index.html": "/fruit-pot/index.html",
+    "precache-manifest.ab756bad85ddfc73666500c64d4ad7bb.js": "/fruit-pot/precache-manifest.ab756bad85ddfc73666500c64d4ad7bb.js",
+    "service-worker.js": "/fruit-pot/service-worker.js",
+    "static/css/main.79df3d86.chunk.css.map": "/fruit-pot/static/css/main.79df3d86.chunk.css.map",
+    "static/js/2.9c49996e.chunk.js.LICENSE.txt": "/fruit-pot/static/js/2.9c49996e.chunk.js.LICENSE.txt",
+    "static/media/apple.png": "/fruit-pot/static/media/apple.a44df021.png",
+    "static/media/banana.png": "/fruit-pot/static/media/banana.52a0005d.png",
+    "static/media/blueberry.png": "/fruit-pot/static/media/blueberry.11104fbe.png",
+    "static/media/cherry.png": "/fruit-pot/static/media/cherry.efe875d5.png",
+    "static/media/lemon.png": "/fruit-pot/static/media/lemon.36b238a0.png",
+    "static/media/pear.png": "/fruit-pot/static/media/pear.0db872dd.png",
+    "static/media/star.png": "/fruit-pot/static/media/star.edf3dfd8.png",
+    "static/media/strawberry.png": "/fruit-pot/static/media/strawberry.751a51a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5229fac6.js",
+    "static/js/2.9c49996e.chunk.js",
+    "static/css/main.79df3d86.chunk.css",
+    "static/js/main.dde1b67a.chunk.js"
+  ]
+}
